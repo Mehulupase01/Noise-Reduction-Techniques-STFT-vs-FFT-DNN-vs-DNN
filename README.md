@@ -1,0 +1,2 @@
+# Noise Reduction Techniques STFT vs FFT+ DNN vs DNN
+ This project compares three audio denoising techniques—Short-Time Fourier Transform (STFT), a hybrid Fast Fourier Transform + Deep Neural Networks (FFT+DNN), and Deep Neural Networks (DNN) for noise reduction in speech. Using metrics like SNR, PESQ, MSE, and STOI, the project evaluates the effectiveness of each technique in improving audio clarity under different noise conditions
